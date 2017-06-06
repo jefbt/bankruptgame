@@ -1,0 +1,19 @@
+Bankrupt
+
+*** Tools used ***
+This game was developed using the Eclipse Neon.3 IDE (Release 4.6.3), wich can be found in the following link: http://www.eclipse.org/downloads/packages/eclipse-ide-java-developers/neon3, accessed 2017-06-05. The version used was Windows 64-bit. The programming language used is Java.
+
+The Java Development Kit (JDK) will be necessary to run the Eclipse IDE. JDK 8u131 was used. It can be found here: http://www.oracle.com/technetwork/pt/java/javase/downloads/jdk8-downloads-2133151.html, accessed 2017-06-05. Windows x64 version was used.
+
+*** Interpreting instructions ***
+To open the project select File > Import from the Eclipse IDE, choose General > Existing Projects into Workspace then choose the folder that contains the project sources. To run just go to Run > Run. The results are shown in the Console area.
+
+To run the .jar file, go to the Executable\Bankrupt folder, and open it in a terminal. Type "java -jar Bankrupt.java" without the quotes ("). The results will be shown in the terminal.
+
+*** Extra information ***
+The file "gameConfig.txt" must be in the Executable\Bankrupt or Source\Bankrupt  directory (to run the executable or source project, respectively) in order for the project to run correctly.
+
+*** About ***
+Author Jeferson Tomazella
+jefbt@outlook.com
++55 14 99155 0312
